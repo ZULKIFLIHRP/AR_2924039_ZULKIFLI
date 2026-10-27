@@ -6,3 +6,5 @@
 [Mm]emoryCaptures/
 .vs/
 .gradle/
+.utmp/
+build/
